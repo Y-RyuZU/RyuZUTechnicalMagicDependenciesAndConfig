@@ -1,0 +1,2 @@
+# RyuZUTechnicalMagicDependenciesAndConfig
+RyuZUTechnicalMagicの必要Pluginとconfig

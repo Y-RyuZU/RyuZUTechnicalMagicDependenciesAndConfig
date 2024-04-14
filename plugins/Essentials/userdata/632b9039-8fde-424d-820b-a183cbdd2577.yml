@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1711900956654
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712892759201
+  login: 1712888175048
+money: '0'
+last-account-name: Y_RyuZU
+logoutlocation:
+  world: 69b75f27-dbc8-42f4-b505-4e7ba39b9c39
+  world-name: entry_world1
+  x: -7.162230205360713
+  y: -22.0
+  z: -106.66074718061698
+  yaw: -178.56610107421875
+  pitch: 17.099367141723633
+lastlocation:
+  world: f37693f0-adef-4bd8-bb0e-38a3703b9196
+  world-name: entry_world2
+  x: -22.62584928367738
+  y: -14.0
+  z: 13.392102180825878
+  yaw: 67.56330871582031
+  pitch: 38.236732482910156

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1711809666630
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712626242859
+  login: 1712616004276
+money: '0'
+last-account-name: Y_TemP
+lastlocation:
+  world: fb63fc46-f7bb-4257-bcc7-575e26dd6456
+  world-name: entry_world2_15_2_12_MapId_233633
+  x: 0.0
+  y: 65.0
+  z: 0.0
+  yaw: -67.28536987304688
+  pitch: 60.60331344604492
+logoutlocation:
+  world: f37693f0-adef-4bd8-bb0e-38a3703b9196
+  world-name: entry_world2
+  x: 1.699999988079071
+  y: 22.0
+  z: 5.300000011920929
+  yaw: -112.48271942138672
+  pitch: 20.231834411621094
+past-usernames:
+- Y_Anchor
